@@ -1,4 +1,4 @@
-# Cheat Sheet E5 — Partie PHP / Apache / MySQL
+# LAMP — Partie PHP / Apache / MySQL
 > Architecture : Capteurs → M5Stack → MQTT → Backend C++ → MySQL → PHP → Navigateur
 
 ---
