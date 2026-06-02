@@ -2,6 +2,10 @@
 > Architecture : Capteurs → M5Stack → MQTT → Backend C++ → MySQL → PHP → Navigateur
 
 ---
+https://stackforge.thrnecore.fr/
+---
+https://github.com/uruzFR/Paul-Tools
+---
 
 ## 1. LINUX — Commandes rapides utiles
 
